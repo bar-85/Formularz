@@ -20,5 +20,7 @@ JavaScript / Vue3
 
 ![Screenshot_5](https://user-images.githubusercontent.com/105555319/182946463-04cc4063-53c0-4190-9db1-484d9ad4ea5a.png)
 
+![Screenshot_7](https://user-images.githubusercontent.com/105555319/182946719-28a58d2e-3fd6-49f0-b191-bffd6f80c7ef.png)
+
 
 
