@@ -1,8 +1,6 @@
-# Formularz
-
-https://formularz-strony.netlify.app/
-
 <h1 align="center"> FORMULARZ STRONY INTERNETOWEJ </h >
+<br />
+<h2 align="center"> formularz  </h2>
 <br />
 Stronę można zobaczyć pod adresem: https://formularz-strony.netlify.app/
 <br />
