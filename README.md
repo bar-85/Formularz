@@ -5,6 +5,7 @@ Stronę można zobaczyć pod adresem: https://formularz-strony.netlify.app/
 <br />
 <br />
 <h2 align="left"> Technologie: </h2>
+<br />
 * HTML 
 <br />
 * CSS
