@@ -24,7 +24,7 @@ header h1 {
   font-size: 1.3em;
   color: #F0F6fC;
   margin: 0;
-  text-shadow: 0px 1px 3px rgb(106, 180, 224);
+  text-shadow: 0px 1px 2px rgb(106, 180, 224);
   cursor: pointer;
 }
 </style>
