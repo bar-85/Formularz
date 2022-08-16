@@ -156,13 +156,13 @@ form {
 
 label {
   font-weight: bold;
-  text-shadow: 0px 1px 3px rgb(106, 180, 224);
+  text-shadow: 0px 1px 2px rgb(106, 180, 224);
 }
 
 h2 {
   font-size: 1rem;
   margin: 0.5rem 0;
-  text-shadow: 0px 1px 3px rgb(106, 180, 224);
+  text-shadow: 0px 1px 2px rgb(106, 180, 224);
 }
 
 .lab {
