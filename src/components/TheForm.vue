@@ -10,7 +10,6 @@
       <input id="user-mail" name="user-mail" type="email" v-model="userMail" @blur="valuateMailInput"/>
       <p v-if="userMailValidate === 'invalid'">Pole nie może być puste.</p>
     </div>
-
     <div class="form-control">
       <label for="age">Wiek:</label>
       <input
