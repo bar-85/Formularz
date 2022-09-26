@@ -145,23 +145,34 @@ form {
 }
 
 .form-control.invalid input {
-  border-color: red;
+  border-color: rgb(2, 148, 0);
 }
 
 .form-control.invalid p {
   font-size: 0.8rem;
-  color: red;
+  color: rgb(2, 148, 0);
 }
 
 label {
   font-weight: bold;
-  text-shadow: 0px 1px 2px rgb(106, 180, 224);
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-shadow: 0px 1px 2px rgb(245, 255, 244);
 }
 
 h2 {
   font-size: 1rem;
   margin: 0.5rem 0;
-  text-shadow: 0px 1px 2px rgb(106, 180, 224);
+  text-shadow: 0px 1px 2px rgb(245, 255, 244);
+}
+
+input {
+  padding: 7px;
+  background: #f0fff4;
+  border: 0;
+  border-bottom: 1px solid #ddd;
 }
 
 .lab {
@@ -178,6 +189,10 @@ select {
 
 select {
   width: auto;
+  padding: 10px;
+  background: #f0fff4;
+  border-radius: 15px;
+  border: 1px solid #00ce89;
 }
 
 input[type='checkbox'],
@@ -198,8 +213,8 @@ input[type='radio'] + label {
 
 button {
   font: inherit;
-  border: 1px solid #0076bb;
-  background-color: #0076bb;
+  border: 1px solid #03b149;
+  background-color: #00ce89;
   color: white;
   cursor: pointer;
   padding: 0.75rem 2rem;
@@ -208,7 +223,7 @@ button {
 
 button:hover,
 button:active {
-  border-color: #002350;
-  background-color: #002350;
+  border-color: #009d69;
+  background-color: #02b378;
 }
 </style>
